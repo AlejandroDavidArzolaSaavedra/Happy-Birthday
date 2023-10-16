@@ -23,7 +23,7 @@ Esta ruta de aprendizaje proporcionará a los usuarios las habilidades fundament
 
 ## 📱 Vista de la App
 <ul align="center">		
-  <img  style="width:40rem" src="https://i.imgur.com/bmi7XnA.png"><br>
+  <img  style="width:15rem" src="https://i.imgur.com/kB0c0FU.png"><br>
 </ul>
 
 ## 📄 Compilación del Informe
