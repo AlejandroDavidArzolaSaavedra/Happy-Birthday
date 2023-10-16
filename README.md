@@ -21,6 +21,11 @@ Los temas clave que se abordarán son los siguientes:
 
 Esta ruta de aprendizaje proporcionará a los usuarios las habilidades fundamentales necesarias para **iniciarse en el desarrollo de aplicaciones Android** utilizando Kotlin y Android Studio.
 
+## 📱 Vista de la App
+<ul align="center">		
+  <img  style="width:40rem" src="https://i.imgur.com/bmi7XnA.png"><br>
+</ul>
+
 ## 📄 Compilación del Informe
 Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
 
