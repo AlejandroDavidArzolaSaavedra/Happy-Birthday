@@ -26,6 +26,22 @@ Esta ruta de aprendizaje proporcionará a los usuarios las habilidades fundament
   <img  style="width:15rem" src="https://i.imgur.com/kB0c0FU.png"><br>
 </ul>
 
+## 🎮 Ejecución de la Aplicación
+Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:
+
+1. Abre tu proyecto en Android Studio.
+
+2. Verifica que todas las dependencias estén correctamente configuradas.
+
+3. Haz clic en el botón "Build" para compilar tu aplicación.
+
+4. Una vez completada la compilación, selecciona un emulador o conecta un dispositivo físico.
+
+5. Haz clic en el botón "Run" para ejecutar la aplicación en el emulador o dispositivo.
+
+Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo correctamente y que tu aplicación está libre de errores. ¡Disfruta de la compilación y ejecución de tu aplicación en Android Studio!
+
+
 ## 📄 Compilación del Informe
 Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
 
