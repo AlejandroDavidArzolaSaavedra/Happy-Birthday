@@ -47,9 +47,9 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 
 1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
-2. Localiza el archivo "eleccionArquitectura.tex" en el proyecto en Overleaf.
+2. Localiza el archivo "tuPrimeraAppAndroid.tex" en el proyecto en Overleaf.
 
-3. Haz clic en el archivo "eleccionArquitectura.tex" para abrirlo en el editor de Overleaf.
+3. Haz clic en el archivo "tuPrimeraAppAndroid.tex" para abrirlo en el editor de Overleaf.
 
 4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
 
