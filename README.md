@@ -1,4 +1,4 @@
-<h1 align="center">📄 Mi primera App para Android</h1>
+<h1 align="center">&#x1F382 Mi primera App para Android</h1>
 
 Esta práctica se centra en los Aspectos Básicos de Android con Compose, específicamente abordando la Unidad 1: "Tu primera app para Android".
 
