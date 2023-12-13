@@ -1,0 +1,141 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Práctica 5: Tu primera App para Android
+% @uthor: Alejandro David Arzola Saavedra
+% @date: 15/09/2023
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Estructura basica de la pagina
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{fancyhdr} %Definimos el estilo de página
+
+% Paquetes adicionales
+\usepackage{graphicx,efbox}
+\usepackage[headsep=0.2cm]{geometry}
+\usepackage[most]{tcolorbox}
+\newcommand{\MYhref}[3][black]{\href{#2}{\color{#1}{#3}}}
+\usepackage[hyperindex=true, colorlinks=true, linkcolor=black, breaklinks=true, urlcolor=black, citecolor=black, anchorcolor= black]{hyperref}
+
+\usepackage{hyperref}
+
+% Configuración del color del enlace
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue, % Color azul
+  urlcolor=blue,  % Color azul para enlaces URL
+  citecolor=blue  % Color azul para citas
+}
+
+\hypersetup{
+  linkcolor=black, % Cambiar a negro
+}
+
+% Agrega el paquete para personalizar el índice
+\usepackage{tocloft}
+
+% Personaliza la apariencia de la entrada "Bibliografía" en el índice
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsecafterpnum}{\vspace{0.5\baselineskip}}
+
+% Variable de entorno de fecha
+\newcommand{\dateToday}{15 de octubre de 2023}
+
+% Variable de imagenes
+\newcommand{\logoULPGC}{imagenes/ulpgc.png}
+\newcommand{\android}{imagenes/android.png}
+\newcommand{\androidStudio}{imagenes/android_studio.png}
+%Cambio indice
+\addto\captionsspanish{\renewcommand{\contentsname}{Índice}}
+
+\setlength{\headheight}{ 40.2pt}
+\pagestyle{fancy}
+\lhead{\includegraphics[width=5cm]{\logoULPGC}}\rhead{\includegraphics[height=1cm]{imagenes/android-icon.png}}
+
+\geometry{a4paper, total={170mm,257mm}, left=35mm, top=20mm, right=35mm}
+
+\begin{document}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %%   Portada del documento
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \begin{titlepage}
+        \centering
+        \vspace*{2cm}
+        \includegraphics[width=0.6\textwidth]{\logoULPGC}\par\vspace{1cm}
+    
+        {\scshape\textbf{\LARGE Práctica 5}}\par
+        \vspace{0.6cm}
+        {\bfseries}{\Huge Tu primera App para Android}
+        \vspace{2cm}
+    
+        \centering
+        \fbox{\includegraphics[width=0.8\textwidth, keepaspectratio]{\android}}
+        
+        \begin{tcolorbox}[colback=red!5!white,colframe=white!50!black]
+            \centering \Large Programación de Aplicaciones Móviles Nativas \par
+            \dateToday
+        \end{tcolorbox}
+
+        \vspace{1cm}        
+        \begin{tcolorbox}[colback=blue!5!white,colframe=blue!75!black]
+            Autor:
+            \tcblower
+            Alejandro David Arzola Saavedra (alejandro.arzola101@alu.ulpgc.es)
+        \end{tcolorbox}
+    \end{titlepage}
+    
+    \newpage
+        
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % Tabla de contenido de la pagina
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \tableofcontents 
+    
+    \newpage
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % Introduccion de la pagina
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \section{Introducción}
+
+    Esta actividad se centra en los Aspectos Básicos de Android con Compose, específicamente abordando la Unidad 1: "\textbf{Tu primera app para Android}". \vspace{0.3cm}
+    
+    Los temas clave que se abordarán son los siguientes:
+    
+    \begin{itemize}
+    \item Introducción a Kotlin:
+    En esta sección, se brinda una \textbf{introducción a los conceptos básicos de programación utilizando Kotlin}.Se ofrece una introducción esencial para la creación de aplicaciones Android en Kotlin.
+
+    \item Configuración de Android Studio:
+    Aquí, se detalla el \textbf{proceso de instalación y configuración de Android Studio}. Donde se realiza el primer proyecto y  se ejecuta tanto en un dispositivo físico como en un emulador.
+
+    \item Creación de un diseño básico:
+    Esta etapa se enfoca en la \textbf{construcción de una aplicación para Android que posea una interfaz de usuario sencilla}. Se enseña cómo compilar la aplicación, incorporando elementos visuales como imágenes y texto.
+
+    \end{itemize}
+    
+    Esta ruta de aprendizaje proporcionará a los usuarios las habilidades fundamentales necesarias para \textbf{iniciarse en el desarrollo de aplicaciones Android} utilizando Kotlin y Android Studio.
+
+    \section{Enlace Github}
+    % Enlace al repositorio de Git con el CodeLab
+    El enlace al repositorio de GitHub es el siguiente:\vspace{0.3cm}
+    
+    \href{https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app}{Clicka aqui para ver el Projecto en Github}    
+    
+    \section{Captura del Emulador}
+    Inicialmente, me embarqué en el desarrollo de una aplicación que consiste en una \textbf{carta de felicitaciones}, utilizando Kotlin y, más específicamente, haciendo uso de \textbf{Jetpack Compose}.
+
+    \begin{figure}[h]
+        \includegraphics[width=\textwidth, height=8cm, keepaspectratio]{\androidStudio}
+        \caption{Pantalla desde el emulador de Android Studio.}
+    \end{figure}
+
+    Como se puede observar, decidí colocar \textbf{el mensaje de felicitación en la parte inferior de la pantalla}. Además, seleccioné dos imágenes: una de fondo con \textbf{motivos de cumpleaños y una imagen central de una tarta}. Esta elección tiene como objetivo que el usuario, de manera inmediata, \textbf{identifique la aplicación como una carta de cumpleaños}.
+
+    \section{Opinión del Codelab}
+    El proceso no tuvo varios problemas que se solucionaron. Inicialmente, me enfrenté a errores durante la compilación, los cuales se resolvieron ajustando el \textbf{Compile SDK y actualizando el Gradle}. Este contratiempo me llevó un tiempo considerable antes de identificar la causa del problema.\vspace{0.3cm}
+
+    Además, experimenté \textbf{dificultades al intentar implementar un fondo oscuro con luces difuminadas}. Al no estar satisfecho con el resultado, \textbf{opté por cambiar mi enfoque y elegí una imagen festiva}, lo cual mejoró significativamente \textbf{la estética de la aplicación}.\vspace{0.3cm}
+    
+    Asimismo, encontré obstáculos al tratar de \textbf{sincronizar la interfaz de Android Studio con GitHub}. Aunque surgieron varios problemas, \textbf{encontre las soluciones} para lograr la integración de la app.
+    
+\end{document}
