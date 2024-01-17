@@ -1,5 +1,9 @@
 <h1 align="center">&#x1F382 Mi primera App para Android</h1>
 
+<p align="center">
+  <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/74ce6351-756c-49c1-b10f-f51a763c49e6">
+</p>
+
 Esta práctica se centra en los Aspectos Básicos de Android con Compose, específicamente abordando la Unidad 1: "Tu primera app para Android".
 
 ## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
