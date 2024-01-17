@@ -27,7 +27,9 @@ Esta ruta de aprendizaje proporcionará a los usuarios las habilidades fundament
 </ul>
 
 ## 🎮 Ejecución de la Aplicación
-Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:
+Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:<br>
+
+<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/ca396151-c530-4716-adee-8c651040f7c0">
 
 1. Abre tu proyecto en Android Studio.
 
@@ -43,19 +45,17 @@ Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo 
 
 
 ## 📄 Compilación del Informe
-Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
+Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:<br>
+
+<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/a1fdb2b7-dccd-4d08-8c6d-8df7e6435c50">
 
 1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
-2. Localiza el archivo "tuPrimeraAppAndroid.tex" en el proyecto en Overleaf.
+2. Haz clic en el archivo "tuPrimeraAppAndroid.tex" para abrirlo en el editor de Overleaf.
 
-3. Haz clic en el archivo "tuPrimeraAppAndroid.tex" para abrirlo en el editor de Overleaf.
+3. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
 
-4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
-
-5. Overleaf se encargará de compilar automáticamente el documento LaTeX y generará el archivo PDF correspondiente.
-
-6. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
+4. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
 
 ## 🤝 Contribuciones
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/PAMN_practicas/assets/90756437/1066c948-efb6-45b6-ac18-d81015abf332">
