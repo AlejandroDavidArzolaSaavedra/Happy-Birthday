@@ -10,7 +10,7 @@ Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Apl
 ## 📑 Contenido del Informe
 Los temas clave que se abordarán son los siguientes:<br>
 
-<img align="left" width="180" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/d8807f9c-e554-4e4e-af7a-74c18e9fb6bc">
+<img align="left" width="200" height="220" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/d8807f9c-e554-4e4e-af7a-74c18e9fb6bc">
 
 - **🚀 Introducción a Kotlin:**
   En esta sección, se brinda una **introducción a los conceptos básicos de programación utilizando Kotlin**. 
