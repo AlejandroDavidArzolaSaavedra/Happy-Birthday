@@ -1,4 +1,4 @@
-<h1 align="center">&#x1F382 My First Android App</h1>
+<h1 align="center">&#x1F382 Happy Birthday App</h1>
 
 <p align="center">
   <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/74ce6351-756c-49c1-b10f-f51a763c49e6">
