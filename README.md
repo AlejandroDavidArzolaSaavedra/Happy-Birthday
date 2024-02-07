@@ -1,70 +1,70 @@
-<h1 align="center">&#x1F382 Mi primera App para Android</h1>
+<h1 align="center">&#x1F382 My First Android App</h1>
 
 <p align="center">
   <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/74ce6351-756c-49c1-b10f-f51a763c49e6">
 </p>
 
-Esta práctica se centra en los Aspectos Básicos de Android con Compose, específicamente abordando la Unidad 1: "Tu primera app para Android".
+This practice focuses on the Basics of Android with Compose, specifically addressing Unit 1: "Your first app for Android".
 
-## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
-Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
+## 🙆👨‍💻 Author (Ctrl + Click to view profiles)
+This report has been prepared by Group 13 of the Native Mobile Applications Programming (PAMN) course.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
   
-## 📑 Contenido del Informe
-Los temas clave que se abordarán son los siguientes:<br>
+## 📑 Report Contents
+The key topics to be covered are as follows:<br>
 
 <img align="left" width="200" height="220" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/d8807f9c-e554-4e4e-af7a-74c18e9fb6bc">
 
-- **🚀 Introducción a Kotlin:**
-  En esta sección, se brinda una **introducción a los conceptos básicos de programación utilizando Kotlin**. 
+- **🚀 Introduction to Kotlin:**
+  This section provides an **introduction to basic programming concepts using Kotlin**.
 
-- **⚙️ Configuración de Android Studio:**
-  Aquí, se detalla el **proceso de instalación y configuración de Android Studio**. Donde se realiza el primer proyecto y se ejecuta tanto en un dispositivo físico como en un emulador.
+- **⚙️ Setting up Android Studio:**
+  Here, the **installation and configuration process of Android Studio** is detailed. Where the first project is created and run on both a physical device and an emulator.
 
-- **🎨 Creación de un diseño básico:**
-  Esta etapa se enfoca en la **construcción de una aplicación para Android que posea una interfaz de usuario sencilla**. Se enseña cómo compilar la aplicación, incorporando elementos visuales como imágenes y texto.
+- **🎨 Creating a basic layout:**
+  This stage focuses on **building an Android application with a simple user interface**. It teaches how to compile the application, incorporating visual elements such as images and text.
 
-Esta ruta de aprendizaje proporcionará a los usuarios las habilidades fundamentales necesarias para **iniciarse en el desarrollo de aplicaciones Android** utilizando Kotlin y Android Studio.
+This learning path will provide users with the fundamental skills needed to **get started with Android app development** using Kotlin and Android Studio.
 
-## 📱 Vista de la App
+## 📱 App View
 <ul align="center">		
   <img  style="width:15rem" src="https://i.imgur.com/kB0c0FU.png"><br>
 </ul>
 
-## 🎮 Ejecución de la Aplicación
-Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:<br>
+## 🎮 Running the App
+Additionally, to build and run your Android application locally, follow these steps using Android Studio:<br>
 
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/ca396151-c530-4716-adee-8c651040f7c0">
 
-1. Abre tu proyecto en Android Studio.
+1. Open your project in Android Studio.
 
-2. Verifica que todas las dependencias estén correctamente configuradas.
+2. Ensure all dependencies are correctly configured.
 
-3. Haz clic en el botón "Build" para compilar tu aplicación.
+3. Click the "Build" button to compile your application.
 
-4. Una vez completada la compilación, selecciona un emulador o conecta un dispositivo físico.
+4. Once the build is complete, select an emulator or connect a physical device.
 
-5. Haz clic en el botón "Run" para ejecutar la aplicación en el emulador o dispositivo.
+5. Click the "Run" button to execute the application on the emulator or device.
 
-Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo correctamente y que tu aplicación está libre de errores. ¡Disfruta de la compilación y ejecución de tu aplicación en Android Studio!
+Please note that these steps assume you have already set up your development environment correctly and that your application is error-free. Enjoy building and running your application in Android Studio!
 
 
-## 📄 Compilación del Informe
-Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:<br>
+## 📄 Compiling the Report
+If you want to compile the report on Overleaf instead of doing it on your local machine, you can follow these steps:<br>
 
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Happy-Birthday-app/assets/90756437/a1fdb2b7-dccd-4d08-8c6d-8df7e6435c50">
 
-1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
+1. Open your project in Overleaf (make sure you have created an account on Overleaf and imported your project there).
 
-2. Haz clic en el archivo "tuPrimeraAppAndroid.tex" para abrirlo en el editor de Overleaf.
+2. Click on the file "tuPrimeraAppAndroid.tex" to open it in the Overleaf editor.
 
-3. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
+3. At the top of the editor, you will see a button called "Recompile" or "Compile" (it may vary depending on the version of Overleaf). Click on this button.
 
-4. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
+4. Once the compilation is complete, you can download the resulting PDF file from the Overleaf interface.
 
-## 🤝 Contribuciones
+## 🤝 Contributions
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/PAMN_practicas/assets/90756437/1066c948-efb6-45b6-ac18-d81015abf332">
-Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.<br><br>
+If you wish to contribute to this report or make improvements, you are invited to do so. You can open issues or send pull requests to collaborate in the development of the report.<br><br>
 
-Por favor, contácteme si tiene preguntas o comentarios sobre el informe.
+Please feel free to contact me if you have any questions or comments about the report.
